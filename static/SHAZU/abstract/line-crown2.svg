@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="411" height="411" viewBox="0 0 411 411">
+  <defs>
+    <clipPath id="clip-line-crown2">
+      <rect width="411" height="411"/>
+    </clipPath>
+  </defs>
+  <g id="line-crown2" clip-path="url(#clip-line-crown2)">
+    <rect width="411" height="411" fill="rgba(255,255,255,0)"/>
+    <path id="_02" data-name="02" d="M772.363,249.221l55.793-149.143L785.628,253.531l132.8-87.865-124.6,99.15,159.084,6.974-159.084,6.974,124.6,99.15-132.8-87.865L828.155,443.5,772.363,294.358,716.57,443.5,759.1,290.047,626.3,377.913l124.6-99.15-159.084-6.974L750.9,264.815l-124.6-99.15,132.8,87.865L716.57,100.077Z" transform="matrix(0.996, 0.087, -0.087, 0.996, -540.202, -131.993)" fill="#fff"/>
+  </g>
+</svg>

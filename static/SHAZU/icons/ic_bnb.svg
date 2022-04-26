@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-ic_bnb">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="ic_bnb" clip-path="url(#clip-ic_bnb)">
+    <g id="Binance-BNB-Icon-Logo.wine" transform="translate(1.72 1.72)">
+      <circle id="Ellipse_167" data-name="Ellipse 167" cx="23" cy="23" r="23" transform="translate(0.28 0.28)" fill="#0b0e11"/>
+      <path id="Path_434" data-name="Path 434" d="M23.616,27.463l6.53-6.53,6.534,6.534,3.8-3.8L30.146,13.333l-10.33,10.33Zm-6.483-1.117,3.8,3.8-3.8,3.8-3.8-3.8Zm6.483,6.483,6.53,6.53,6.533-6.533,3.8,3.8,0,0L30.146,46.959l-10.33-10.33-.005-.005ZM46.96,30.147l-3.8,3.8-3.8-3.8,3.8-3.8Z" transform="translate(-6.867 -6.867)" fill="#f0b90b"/>
+      <path id="Path_435" data-name="Path 435" d="M47.757,43.9h0L43.9,40.046,40.046,43.9l.005.005L43.9,47.761,47.761,43.9Z" transform="translate(-20.624 -20.624)" fill="#f0b90b"/>
+    </g>
+  </g>
+</svg>

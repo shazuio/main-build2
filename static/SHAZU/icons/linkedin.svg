@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-linkedin">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="linkedin" clip-path="url(#clip-linkedin)">
+    <g id="linkedin-2" data-name="linkedin" transform="translate(7.673 8)">
+      <path id="Path_425" data-name="Path 425" d="M30.786,18.265V30.939h-5.51V19.367c0-2.282-1.024-4.924-3.306-4.938a4.916,4.916,0,0,0-4.959,5.056V30.939H11.5V10h5.51v3.306c1.1-1.653,2.2-3.306,6.061-3.306C28.582,10,30.786,13.306,30.786,18.265Z" transform="translate(0.867 0.816)" fill="#fff"/>
+      <circle id="Ellipse_166" data-name="Ellipse 166" cx="3" cy="3" r="3" transform="translate(3 2)" fill="#fff"/>
+      <rect id="Rectangle_83" data-name="Rectangle 83" width="6" height="21" transform="translate(3 11)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

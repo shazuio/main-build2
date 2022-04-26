@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="461" height="461" viewBox="0 0 461 461">
+  <defs>
+    <clipPath id="clip-snc-logo">
+      <rect width="461" height="461"/>
+    </clipPath>
+  </defs>
+  <g id="snc-logo" clip-path="url(#clip-snc-logo)">
+    <text id="SNC_LOGO" data-name="SNC
+LOGO" transform="translate(231 224)" fill="#fff" font-size="149" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-149.073" y="0">SNC</tspan><tspan x="-213.133" y="129">LOGO</tspan></text>
+  </g>
+</svg>

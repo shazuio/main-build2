@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="411" height="411" viewBox="0 0 411 411">
+  <defs>
+    <clipPath id="clip-line-wave1">
+      <rect width="411" height="411"/>
+    </clipPath>
+  </defs>
+  <g id="line-wave1" clip-path="url(#clip-line-wave1)">
+    <rect width="411" height="411" fill="rgba(255,255,255,0)"/>
+    <g id="_30" data-name="30" transform="translate(355.42 -3369.74) rotate(53)">
+      <ellipse id="Ellipse_88" data-name="Ellipse 88" cx="187.281" cy="37.456" rx="187.281" ry="37.456" transform="translate(2639.011 2414.827) rotate(-60)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <ellipse id="Ellipse_89" data-name="Ellipse 89" cx="181.783" cy="36.357" rx="181.783" ry="36.357" transform="translate(2631.843 2400.252) rotate(-55.357)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <ellipse id="Ellipse_90" data-name="Ellipse 90" cx="177.547" cy="35.509" rx="177.547" ry="35.509" transform="matrix(0.637, -0.771, 0.771, 0.637, 2624.675, 2385.678)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <ellipse id="Ellipse_91" data-name="Ellipse 91" cx="174.666" cy="34.933" rx="174.666" ry="34.933" transform="translate(2617.506 2371.104) rotate(-45.361)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <ellipse id="Ellipse_92" data-name="Ellipse 92" cx="173.208" cy="34.642" rx="173.208" ry="34.642" transform="translate(2610.338 2356.529) rotate(-40.135)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <ellipse id="Ellipse_93" data-name="Ellipse 93" cx="173.208" cy="34.642" rx="173.208" ry="34.642" transform="translate(2603.169 2341.955) rotate(-34.865)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <ellipse id="Ellipse_94" data-name="Ellipse 94" cx="174.666" cy="34.933" rx="174.666" ry="34.933" transform="translate(2596.001 2327.381) rotate(-29.639)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <ellipse id="Ellipse_95" data-name="Ellipse 95" cx="177.547" cy="35.509" rx="177.547" ry="35.509" transform="translate(2588.833 2312.806) rotate(-24.541)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <ellipse id="Ellipse_96" data-name="Ellipse 96" cx="181.783" cy="36.357" rx="181.783" ry="36.357" transform="translate(2581.664 2298.231) rotate(-19.643)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+      <ellipse id="Ellipse_97" data-name="Ellipse 97" cx="187.281" cy="37.456" rx="187.281" ry="37.456" transform="matrix(0.966, -0.259, 0.259, 0.966, 2574.496, 2283.657)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
